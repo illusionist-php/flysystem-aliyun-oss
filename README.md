@@ -7,7 +7,7 @@ Flysystem adapter for the Aliyun OSS SDK
 ![php](https://img.shields.io/packagist/php-v/illusionist/flysystem-aliyun-oss?style=flat-square)
 ![downloads](https://img.shields.io/packagist/dm/illusionist/flysystem-aliyun-oss?style=flat-square)
 ![license](https://img.shields.io/packagist/l/illusionist/flysystem-aliyun-oss?style=flat-square)
-[![Build Status](https://app.travis-ci.com/illusionist-php/flysystem-aliyun-oss.svg?branch=master)](https://app.travis-ci.com/illusionist-php/flysystem-aliyun-oss)
+[![Build Status](https://app.travis-ci.com/illusionist-php/flysystem-aliyun-oss.svg?branch=1.x)](https://app.travis-ci.com/illusionist-php/flysystem-aliyun-oss)
 
 <br /><br />
 English | [中文](README-zh_CN.md) 
