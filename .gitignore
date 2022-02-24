@@ -1,2 +1,13 @@
-/vendor/
-/composer.lock
+# editor
+/.idea
+/.vscode
+
+# dependencies
+/vendor
+composer.lock
+
+# test
+.phpunit.result.cache
+
+# macos
+.DS_Store
